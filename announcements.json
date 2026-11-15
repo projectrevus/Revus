@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "announcements": {
+    "en": [
+      {
+        "title": "NEW CONTENT UPDATE",
+        "text": "A new life. A new character. Revus is waiting for you.",
+        "date": "16.11.2026"
+      },
+      {
+        "title": "REWARDS & BENEFITS",
+        "text": "Create your character, start with $500 and develop your skills.",
+        "date": "16.11.2026"
+      },
+      {
+        "title": "SERVER DEVELOPMENT",
+        "text": "Season leaderboards and battlepass progression are here.",
+        "date": "16.11.2026"
+      }
+    ],
+    "tr": [
+      {
+        "title": "YENİ İÇERİK GÜNCELLEMESİ",
+        "text": "Yeni bir hayat. Yeni bir karakter. Revus seni bekliyor.",
+        "date": "16.11.2026"
+      },
+      {
+        "title": "ÖDÜLLER VE AVANTAJLAR",
+        "text": "Karakterini oluştur, 500 dolar ile başla ve becerilerini geliştir.",
+        "date": "16.11.2026"
+      },
+      {
+        "title": "SUNUCU GELİŞTİRMELERİ",
+        "text": "Sezon liderlik tabloları ve savaş bileti ilerlemesi seni bekliyor.",
+        "date": "16.11.2026"
+      }
+    ]
+  }
+}
