@@ -1,6 +1,44 @@
- {
-   "names": [
-     "Nova",
-     "Orion"
-   ]
- }
+{
+	"names": [
+		"Quick",
+		"Lazy",
+		"Clever",
+		"Quiet",
+		"Loud",
+		"Bold",
+		"Shy",
+		"Slow",
+		"Sharp",
+		"Pale",
+		"Fuzzy",
+		"Blunt",
+		"Jumpy",
+		"Sleepy",
+		"Moody",
+		"Breezy",
+		"Chilly",
+		"Dusty",
+		"Icy",
+		"Soggy",
+		"Ant",
+		"Bat",
+		"Beetle",
+		"Cat",
+		"Crab",
+		"Deer",
+		"Duck",
+		"Fish",
+		"Frog",
+		"Goose",
+		"Lizard",
+		"Moth",
+		"Mouse",
+		"Newt",
+		"Otter",
+		"Rabbit",
+		"Snaily",
+		"Spider",
+		"Toad",
+		"Turtle"
+	]
+}
